@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1608-nikunj
-- 👀 I’m interested in Python, C, C++, CSS, HTML, JS, DSA, ML, SQL
+- 👀 I’m interested in Python, C, C++, CSS, HTML, DSA, ML, SQL
 - 🌱 I’m currently learning B,Tech Computer Science and Engineering
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me Google
