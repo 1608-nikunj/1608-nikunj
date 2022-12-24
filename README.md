@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @1608-nikunj
-- 👀 I’m interested in Python, C, C++, CSS, HTML, DSA, ML, SQL
-- 🌱 I’m currently learning B,Tech Computer Science and Engineering
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👋 Hi, I’m @1608-nikunj (NIKUNJ RASTOGI)
+- 👀 I’m interested in Python, Data Science and Data Analyst
+- 🥇 I'm also interested in Reactjs, MongoDB, Postman-Frontend+Backend= Full Stack Developer.
+- 🌱 I’m currently learning B,Tech Computer Science and Engineering.
+- 💞️ I’m looking to collaborate on Machine Learning.
 - 📫 How to reach me Google
 
 <!---
