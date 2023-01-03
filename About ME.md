@@ -4,6 +4,9 @@
 # - 🌱 I’m currently learning B,Tech Computer Science and Engineering.
 # - 💞️ I’m looking to collaborate on Machine Learning.
 # - 📫 How to reach me Google
+```
+rastoginikunj548@gmail.com
+```
 
 <!---
 1608-nikunj/1608-nikunj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
