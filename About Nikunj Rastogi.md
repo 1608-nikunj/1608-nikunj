@@ -27,10 +27,10 @@ rastoginikunj548@gmail.com
 ```
 
 <!---
-1608-nikunj/1608-nikunj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+# - 1608-nikunj/1608-nikunj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# - You can click the Preview link to take a look at your changes.
 --->
 
 ```sh
-Resume - https://drive.google.com/file/d/1Qr-UtAWJhcfGjpzh-03nuEuxCrXwgBxX/view?usp=sharing
+# - Resume = https://drive.google.com/file/d/1Qr-UtAWJhcfGjpzh-03nuEuxCrXwgBxX/view?usp=sharing
 ```
